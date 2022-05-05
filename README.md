@@ -1,103 +1,70 @@
-# Rens van Driel, just a simple change to create a conflict
+# **Sogeti Frontend Learning track**
 
-## Getting started
+>***This repository has been created as part of the 'Sogeti Frontend Learning track'***
 
-To make it easy for you to get started with GitLab, here's a list of recommended next steps.
+<p>&nbsp;</p>
 
-Already a pro? Just edit this README.md and make it your own. Want to make it easy? [Use the template at the bottom](#editing-this-readme)!
+## **Who am I?**
+Hi I'm Rens! I've been working at Sogeti as a Frontend Developer since January. Before joining the team, I studied Biology and also shortly worked in that branche. During my studies I was always very interested in visualising the things I was learning, like unique or big data sets and thinking about how to present complex information in a way that makes it easy to understand. Even though biology is a very interesting field of study, I never felt like I could really do the things that I wanted to do. I have an insatiable apppite for creativity and problem solving. To satisfy this need, I did some freelance graphic design next to my current job and picked up frontend development as a hobby. I soon realised that frontend development was the perfect combination of activities that I liked to be occupied with. That's why I decided to make a career switch and fully focus on becomming a good developer.
 
-## Add your files
+In my spare time I like to go bouldering, mostly indoors but If I get the chance outdoors in and around Europe. I love playing tactical boardgames, play guitar here and there and am busy setting up a NFT project that features 3D puzzle NFTs. 
+<p>&nbsp;</p>
 
-- [ ] [Create](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#create-a-file) or [upload](https://docs.gitlab.com/ee/user/project/repository/web_editor.html#upload-a-file) files
-- [ ] [Add files using the command line](https://docs.gitlab.com/ee/gitlab-basics/add-file.html#add-a-file-using-the-command-line) or push an existing Git repository with the following command:
+## **Why did I join the learning track?**
+The frontend learning track for me is the ideal pathway to become a more confident and competent developer. I expect to develop a strong foundation in the core languanges of frontend development (HTML, CSS, JavaScript), get a clear understanding and learn best practices of GIT, and get a more in depth knowledge on React. I believe that a strong foundational knowledge is essential for complex problem solving, and that is really at the core of what I hope to get out of this learning track. 
+<p>&nbsp;</p>
 
-```
-cd existing_repo
-git remote add origin https://gitlab.sogeticloudservices.com/frontend-learning-track/rens-van-driel.git
-git branch -M main
-git push -uf origin main
-```
+## **What did you learn so far?**
 
-## Integrate with your tools
+**Flutter / Dart**
 
-- [ ] [Set up project integrations](https://gitlab.sogeticloudservices.com/frontend-learning-track/rens-van-driel/-/settings/integrations)
+My coding journey started out with me trying to figure out how to deploy a mobile application from start to finish. I chose Flutter & Dart for this as it seemed to be a beginner friendly framework/language. I learned how to work with VSC, Android studio and how to deploy an app to the Android Playstore. I soon ran into the limitations of flutter, and decided to continue the traditional HTML, CSS, JavaScript route.<p>&nbsp;</p>
+<img src="readme-images/virusAppGif.gif" width="200" height="auto">
+<p>&nbsp;</p>
 
-## Collaborate with your team, as conflicts happen while collaberating
+**HTML/CSS/JavaScript**
 
-- [ ] [Invite team members and collaborators](https://docs.gitlab.com/ee/user/project/members/)
-- [ ] [Create a new merge request](https://docs.gitlab.com/ee/user/project/merge_requests/creating_merge_requests.html)
-- [ ] [Automatically close issues from merge requests](https://docs.gitlab.com/ee/user/project/issues/managing_issues.html#closing-issues-automatically)
-- [ ] [Enable merge request approvals](https://docs.gitlab.com/ee/user/project/merge_requests/approvals/)
-- [ ] [Automatically merge when pipeline succeeds](https://docs.gitlab.com/ee/user/project/merge_requests/merge_when_pipeline_succeeds.html)
+After finishing the Virus application I really got hooked on coding and decided to take things more seriously. I started learning about the basics of HTML and CSS, purchased a book on JavaScript (Eloquent JavaScript) and started the Frontend learning track on Codecademy. I started to get deep into CSS and got fascinated with its complexity. I learned to work with Flexbox, Grid, responsiveness, accessibility and started to understand DOM manipulation with Javascript.<p>&nbsp;</p>
 
-## Test and Deploy
+**React**
 
-Use the built-in continuous integration in GitLab.
+My first and favorite framework I've worked with a lot is React. I was shortly introduced to class components but switched to working with functional components relatively soon. I learned all the basic React hooks and got familiar with Reacts life cycle. I then started to look into 3D web integration and got familiar with Three.js or more specifically the React variant, three-fiber. I explored multiple animation libraries such as react-spring and framer-motion. Later I got familiar with state-management with Redux, API calls with Axios, and hooking up a Firebase backend. <p>&nbsp;</p>
 
-- [ ] [Get started with GitLab CI/CD](https://docs.gitlab.com/ee/ci/quick_start/index.html)
-- [ ] [Analyze your code for known vulnerabilities with Static Application Security Testing(SAST)](https://docs.gitlab.com/ee/user/application_security/sast/)
-- [ ] [Deploy to Kubernetes, Amazon EC2, or Amazon ECS using Auto Deploy](https://docs.gitlab.com/ee/topics/autodevops/requirements.html)
-- [ ] [Use pull-based deployments for improved Kubernetes management](https://docs.gitlab.com/ee/user/clusters/agent/)
-- [ ] [Set up protected environments](https://docs.gitlab.com/ee/ci/environments/protected_environments.html)
+![bestBooks-homepage](/readme-images/homePage.png)
+[bestbooks](https://bestbooks-51a67.web.app/)
+<p>&nbsp;</p>
 
----
+**Vue**
 
-# Editing this README
+I got familiar with Vue due to a job-interview assignment. They exclusively worked with Vue so I learned Vue to build a real-estate website with their available houses API. This is where I got knowledgeable on input validation. I soon after created a website for filtering, searching & comparing collectables for an NFT project.
+<p>&nbsp;</p>
+<img src="readme-images/clumsydetails.png"  width="400" height="auto">
 
-When you're ready to make this README your own, just edit this file and use the handy template below (or feel free to structure it however you want - this is just a starting point!). Thank you to [makeareadme.com](https://www.makeareadme.com/) for this template.
+[browseclumsys.com](https://browseclumsys.com/)
+<p>&nbsp;</p>
 
-## Suggestions for a good README
+**GIT**
 
-Every project is different, so consider which of these sections apply to yours. The sections used in the template are suggestions for most open source projects. Also keep in mind that while a README can be too long and detailed, too long is better than too short. If you think your README is too long, consider utilizing another form of documentation rather than cutting out information.
+During the 'basis opleiding' of Sogeti, I got to work side by side with another developer and learned about working together in a GIT repository. I was familiar with GIT for my own projects but never in a team. After that, to deepen my knowledge on the subject I took a course on GIT. 
+<p>&nbsp;</p>
 
-## Name
+**SASS**
 
-Choose a self-explaining name for your project.
+I always refrained from using many extensions / libraries as I wanted to get a  good grip on the fundamentals. But seeing how SASS is a widely used extension language I figured it would be a good idea to get familiar with it. That's why I took a course in SASS and really started to appreciate the flexibility of it. 
+<p>&nbsp;</p>
 
-## Description
+**Web3**
 
-Let people know what your project can do specifically. Provide context and add a link to any reference visitors might be unfamiliar with. A list of Features or a Background subsection can also be added here. If there are alternatives to your project, this is a good place to list differentiating factors.
+My knowledge on Three.js let me to developing a NFT project that features interactive 3D NFTs ([projectgetaways.com](projectgetaways.com)). This is where I started to look into hosting applications on IPFS and how the create NFTs on a blockchain, in my case Cardano. At the moment I'm developing a 3D puzzle that you can play/solve in your crypto wallet.
+<p>&nbsp;</p>
 
-## Badges
+**Other**
 
-On some READMEs, you may see small images that convey metadata, such as whether or not all the tests are passing for the project. You can use Shields to add some to your README. Many services also have instructions for adding a badge.
+Some other skills I have that are vaguely related to web development:
 
-## Visuals
-
-Depending on what you are making, it can be a good idea to include screenshots or even a video (you'll frequently see GIFs rather than actual videos). Tools like ttygif can help, but check out Asciinema for a more sophisticated method.
-
-## Installation
-
-Within a particular ecosystem, there may be a common way of installing things, such as using Yarn, NuGet, or Homebrew. However, consider the possibility that whoever is reading your README is a novice and would like more guidance. Listing specific steps helps remove ambiguity and gets people to using your project as quickly as possible. If it only runs in a specific context like a particular programming language version or operating system or has dependencies that have to be installed manually, also add a Requirements subsection.
-
-## Usage
-
-Use examples liberally, and show the expected output if you can. It's helpful to have inline the smallest example of usage that you can demonstrate, while providing links to more sophisticated examples if they are too long to reasonably include in the README.
-
-## Support
-
-Tell people where they can go to for help. It can be any combination of an issue tracker, a chat room, an email address, etc.
-
-## Roadmap
-
-If you have ideas for releases in the future, it is a good idea to list them in the README.
-
-## Contributing
-
-State if you are open to contributions and what your requirements are for accepting them.
-
-For people who want to make changes to your project, it's helpful to have some documentation on how to get started. Perhaps there is a script that they should run or some environment variables that they need to set. Make these steps explicit. These instructions could also be useful to your future self.
-
-You can also document commands to lint the code or run tests. These steps help to ensure high code quality and reduce the likelihood that the changes inadvertently break something. Having instructions for running tests is especially helpful if it requires external setup, such as starting a Selenium server for testing in a browser.
-
-## Authors and acknowledgment
-
-Show your appreciation to those who have contributed to the project.
-
-## License
-
-For open source projects, say how it is licensed.
-
-## Project status
-
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+- Graphic Design (Adobe Photoshop, Illustrator, Indesign)
+- 3D modeling / Animation (Blender)
+- A bit of Unity
+- Sound design (Ableton)
+<p>&nbsp;</p>
+Cheers!
